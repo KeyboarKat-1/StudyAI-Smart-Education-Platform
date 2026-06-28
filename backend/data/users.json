@@ -1,0 +1,19 @@
+{
+    "local-user-3978882142": {
+        "userId": "local-user-3978882142",
+        "streakCount": 1,
+        "lastStudyDate": "2026-06-28",
+        "activityLog": [
+            {
+                "id": "85a66c83-c2e8-4cab-9928-7c05175a29be",
+                "description": "Completed a MCQ quiz on 'BEEE_MOST_IMPORTANT_QUESTIONS_AND_ANSWERS.pdf' scoring 60%",
+                "timestamp": "2026-06-28T21:29:54.051410"
+            },
+            {
+                "id": "11000dd3-5a36-4bc8-ad21-a9f23f8e4f82",
+                "description": "Completed a TF quiz on 'BEEE_MOST_IMPORTANT_QUESTIONS_AND_ANSWERS.pdf' scoring 80%",
+                "timestamp": "2026-06-28T21:28:51.348846"
+            }
+        ]
+    }
+}

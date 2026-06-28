@@ -1,0 +1,22 @@
+{
+    "2c2c10ac-7b6a-48f3-b4b6-f0df46b7a958": {
+        "materialId": "1d77b6ca-5586-487b-8684-51fe12cc7884",
+        "materialName": "BEEE_MOST_IMPORTANT_QUESTIONS_AND_ANSWERS.pdf",
+        "score": 4,
+        "totalQuestions": 5,
+        "quizType": "tf",
+        "timestamp": "2026-06-28T21:28:51.347436",
+        "id": "2c2c10ac-7b6a-48f3-b4b6-f0df46b7a958",
+        "userId": "local-user-3978882142"
+    },
+    "8d6e8133-f224-4c62-80c8-132d84e20345": {
+        "materialId": "1d77b6ca-5586-487b-8684-51fe12cc7884",
+        "materialName": "BEEE_MOST_IMPORTANT_QUESTIONS_AND_ANSWERS.pdf",
+        "score": 3,
+        "totalQuestions": 5,
+        "quizType": "mcq",
+        "timestamp": "2026-06-28T21:29:54.049681",
+        "id": "8d6e8133-f224-4c62-80c8-132d84e20345",
+        "userId": "local-user-3978882142"
+    }
+}
